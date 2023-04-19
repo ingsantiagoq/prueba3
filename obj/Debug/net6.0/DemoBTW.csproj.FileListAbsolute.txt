@@ -60,3 +60,29 @@ C:\_Castor\Fenalco\DemoBTW\obj\Debug\net6.0\refint\DemoBTW.dll
 C:\_Castor\Fenalco\DemoBTW\obj\Debug\net6.0\DemoBTW.pdb
 C:\_Castor\Fenalco\DemoBTW\obj\Debug\net6.0\DemoBTW.genruntimeconfig.cache
 C:\_Castor\Fenalco\DemoBTW\obj\Debug\net6.0\ref\DemoBTW.dll
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\bin\Debug\net6.0\appsettings.json
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\bin\Debug\net6.0\DemoBTW.staticwebassets.runtime.json
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\bin\Debug\net6.0\DemoBTW.exe
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\bin\Debug\net6.0\DemoBTW.deps.json
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\bin\Debug\net6.0\DemoBTW.runtimeconfig.json
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\bin\Debug\net6.0\DemoBTW.dll
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\bin\Debug\net6.0\ref\DemoBTW.dll
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\bin\Debug\net6.0\DemoBTW.pdb
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\obj\Debug\net6.0\DemoBTW.csproj.AssemblyReference.cache
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\obj\Debug\net6.0\DemoBTW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\obj\Debug\net6.0\DemoBTW.AssemblyInfoInputs.cache
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\obj\Debug\net6.0\DemoBTW.AssemblyInfo.cs
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\obj\Debug\net6.0\DemoBTW.csproj.CoreCompileInputs.cache
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\obj\Debug\net6.0\DemoBTW.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\obj\Debug\net6.0\DemoBTW.RazorAssemblyInfo.cache
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\obj\Debug\net6.0\DemoBTW.RazorAssemblyInfo.cs
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\obj\Debug\net6.0\scopedcss\bundle\DemoBTW.styles.css
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\obj\Debug\net6.0\scopedcss\projectbundle\DemoBTW.bundle.scp.css
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\obj\Debug\net6.0\DemoBTW.dll
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\obj\Debug\net6.0\ref\DemoBTW.dll
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\obj\Debug\net6.0\DemoBTW.pdb
+C:\Users\ingmarlonm\Documents\Marlon Murcia\TallerGITFLOW\prueba3\obj\Debug\net6.0\DemoBTW.genruntimeconfig.cache
