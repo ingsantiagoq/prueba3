@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\_Castor\Fenalco\DemoBTW
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/_Castor/Fenalco/DemoBTW/Views/Home/Calculadora.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWxjdWxhZG9yYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/_Castor/Fenalco/DemoBTW/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

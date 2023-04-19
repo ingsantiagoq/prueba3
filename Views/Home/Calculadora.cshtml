@@ -1,0 +1,65 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model DemoBTW.Models.CalculadoraViewModel
+
+
+<form data-ajax="true"
+      data-ajax-mode="replace"      
+      data-ajax-begin="showLoading"
+      data-ajax-complete="hideLoading"
+      asp-action="Enter"
+      asp-controller="Calculadora" method="post" enctype="multipart/form-data">
+
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+
+ 
+    <div class="modal-body">
+   
+
+        <div class="form-horizontal">
+
+
+
+            @*<div class="form-group">
+            <label class="control-label col-md-4 col-sm-4 col-xs-12">
+            @Labels.IdOpcionLabel
+            </label>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+            @if (Model.EsEdicion)
+            {
+            @Html.HiddenFor(model => model.IdOpcion)
+            <input type="text" class="form-control" disabled="disabled" value="@Model.IdOpcion" />
+            }
+            else
+            {
+            @Html.TextBoxFor(model => model.IdOpcion, new { @class = "form-control number" })
+            @Html.ValidationMessageFor(model => model.IdOpcion, "", new { @class = "text-danger" })
+            }
+            </div>
+            </div>*@
+            <div class="form-group">
+
+                <label class="control-label col-md-4 col-sm-4 col-xs-12">
+                    Numero 1
+                </label>
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    @Html.TextBoxFor(model => model.Numero1, new { @class = "form-control" })                    
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-md-4 col-sm-4 col-xs-12">
+                    Numero 2
+                </label>
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    @Html.TextBoxFor(model => model.Numero2, new { @class = "form-control" })                    
+                </div>
+            </div>
+
+    </div>
+    <div class="modal-footer">
+        <input type="submit" data-loading-text="Guardando..." autocomplete="off" id="btnAdd" value="Enter" class="btn btn-primary" />        
+    </div>
+</form>
