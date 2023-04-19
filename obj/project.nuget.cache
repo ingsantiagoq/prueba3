@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "wS/ztz4q9tBzdERFPBmCUlD403xt17jBIbIBu8oY+uXBh9B2qmdEPccSsWZi6tBhui7MD+HrIHdVoml/YLq7hg==",
+  "dgSpecHash": "8akcmEp8tVwmbYOBTLKeSaI6+Mng+b7qX/UgoPYRrdt13Bn7D19/2BG4cJHQbCyjsqPEliPS60ErJH3F5MKcNA==",
   "success": true,
-  "projectFilePath": "C:\\_Castor\\Fenalco\\DemoBTW\\DemoBTW.csproj",
+  "projectFilePath": "C:\\Users\\ingdanieljm\\Documents\\BTW\\GitFlow\\DemoBTW.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ALEX\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
-    "C:\\Users\\ALEX\\.nuget\\packages\\microsoft.net.http.headers\\2.2.8\\microsoft.net.http.headers.2.2.8.nupkg.sha512",
-    "C:\\Users\\ALEX\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
-    "C:\\Users\\ALEX\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
-    "C:\\Users\\ALEX\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+    "C:\\Users\\ingdanieljm\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\ingdanieljm\\.nuget\\packages\\microsoft.net.http.headers\\2.2.8\\microsoft.net.http.headers.2.2.8.nupkg.sha512",
+    "C:\\Users\\ingdanieljm\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\ingdanieljm\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\ingdanieljm\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
   ],
   "logs": []
 }
