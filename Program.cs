@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Http.Headers;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Add services to the container...
 builder.Services.AddControllersWithViews();
 
 var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
